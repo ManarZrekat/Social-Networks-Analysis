@@ -8,5 +8,6 @@ The data represents the multi-layer temporal network which connects a populatio
 - text messages between the students.
 - Facebook friendships between the students.
  - The data also includes the gender of each student
+ - 
  link for the datasets: https://figshare.com/articles/dataset/The_Copenhagen_Networks_Study_interaction_data/7267433
 
